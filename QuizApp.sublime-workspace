@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"flex-basis"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cat",
+				"categoryIndex"
+			],
+			[
+				"qu",
+				"queIndex"
+			],
+			[
+				"que",
+				"queIndex"
+			],
+			[
+				"qui",
+				"quizWrap"
+			],
+			[
+				"ca",
+				"categoryIndex"
+			],
+			[
+				"cATE",
+				"categoryIndex"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"category",
+				"categoryList"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"cate",
+				"CategoryBox"
+			],
+			[
+				"catego",
+				"categoryDiv"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bott",
+				"border-bottom"
+			],
+			[
+				"cre",
+				"createCategory"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"quiz",
+				"quizHomeBox"
+			],
+			[
+				"next",
+				"nextQue"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"star",
+				"startAgainQuizBtn"
+			],
+			[
+				"my",
+				"myApp"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"att",
+				"attempt"
+			],
+			[
+				"L",
+				"log"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hide",
+				"hideTimeUpText"
+			],
+			[
+				"tim",
+				"timeUpText"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"sta",
+				"startTimer"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"op",
+				"optionBox"
+			],
+			[
+				"TIME",
+				"times"
+			],
+			[
+				"time",
+				"timeLimit"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"ge",
+				"generateRandonQue"
+			],
+			[
+				"rando",
+				"randomNum"
+			],
+			[
+				"LO",
+				"load"
+			],
+			[
+				"rand",
+				"randomNum"
+			],
+			[
+				"ran",
+				"randomNum"
+			],
+			[
+				"F",
+				"function"
+			],
+			[
+				"see",
+				"seeResultBtn"
+			],
+			[
+				"ne",
+				"nextQueBtn"
+			],
+			[
+				"CORRE",
+				"correctAns"
+			],
+			[
+				"de",
+				"descrption"
+			],
+			[
+				"an",
+				"ansDesc"
+			],
+			[
+				"n",
+				"nextQueBtn"
+			],
+			[
+				"ans",
+				"ansDesc"
+			],
+			[
+				"curre",
+				"currentQueNum"
+			],
+			[
+				"po",
+				"pointer-events"
+			],
+			[
+				"optio",
+				"optionBox"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"TRANSLATE",
+				"translateX()"
+			],
+			[
+				"TRA",
+				"transform"
+			],
+			[
+				"translate",
+				"translateX()"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"opti",
+				"optionBox"
+			],
+			[
+				"qus",
+				"question-text"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"TEXT",
+				"text-align"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"disp",
+				"displayVal"
+			],
+			[
+				"val",
+				"displayValElement"
+			],
+			[
+				"eva",
+				"evaluation"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"arr",
+				"evalStringArray"
+			],
+			[
+				"dis",
+				"displayVal"
+			],
+			[
+				"cli",
+				"clickObj"
+			],
+			[
+				"click",
+				"click"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"LE",
+				"lengthOfDisplayVal"
+			],
+			[
+				"dsi",
+				"displayValElement"
+			],
+			[
+				"eval",
+				"evalStringArray"
+			],
+			[
+				"pen",
+				"pendingVal"
+			],
+			[
+				"d",
+				"displayVal"
+			],
+			[
+				"btn",
+				"btnText"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"nm",
+				"Name"
+			],
+			[
+				"o",
+				"occupation"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"fas",
+				"fas"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tras",
+				"translateX()"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"ra",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"I",
+				"initial"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"pad",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karishmagajria/NEWWWW/Javascript/JSQUIZ APP/QuizApp.js",
+		"/Users/karishmagajria/NEWWWW/Javascript/JSQUIZ APP/QuizAppCss.css",
+		"/Users/karishmagajria/NEWWWW/Javascript/JSQUIZ APP/QuizApp.html",
+		"/Users/karishmagajria/NEWWWW/C++ PRACTICE PROGRAMS/Hw.cpp",
+		"/Users/karishmagajria/NEWWWW/Html/zip/index.html",
+		"/Users/karishmagajria/NEWWWW/Html/Style 1.32.58 PM.css",
+		"/Users/karishmagajria/NEWWWW/Javascript/js calculator projecct/StyleClac.css",
+		"/Users/karishmagajria/NEWWWW/Javascript/js calculator projecct/index.html",
+		"/Users/karishmagajria/NEWWWW/Html/zip/Style.css",
+		"/Users/karishmagajria/NEWWWW/Javascript/js calculator projecct/Style.css",
+		"/Users/karishmagajria/NEWWWW/Javascript/js calculator projecct/::tyle.css",
+		"/Users/karishmagajria/NEWWWW/Html/Style.css",
+		"/Users/karishmagajria/react-learning/src/<!Doctype html>",
+		"/Users/karishmagajria/NEWWWW/Html/index.html",
+		"/Users/karishmagajria/Documents/python program/externalcss.css",
+		"/Users/karishmagajria/Documents/Hello.java",
+		"/Users/karishmagajria/Documents/python program/List.py",
+		"/Users/karishmagajria/Documents/python program/# Write a Python program to create a tuple.",
+		"/Users/karishmagajria/Documents/FormParctice.htm",
+		"/Users/karishmagajria/Documents/StudentInfo.java",
+		"/Users/karishmagajria/Documents/Reverse.java",
+		"/Users/karishmagajria/Documents/SumOfDigits.java",
+		"/Users/karishmagajria/Documents/python program/String.py",
+		"/Users/karishmagajria/Documents/python program/formforpractice.html",
+		"/Users/karishmagajria/Documents/python program/p1.py",
+		"/Users/karishmagajria/Documents/python program/p2.py",
+		"/Users/karishmagajria/Documents/python program/Variable.py",
+		"/Users/karishmagajria/Documents/python program/StringExcercise.py",
+		"/Users/karishmagajria/Documents/python program/Dic.py",
+		"/Users/karishmagajria/Documents/python program/Practice.html",
+		"/Users/karishmagajria/Documents/python program/layout.html",
+		"/Users/karishmagajria/Documents/python program/exLayout.html",
+		"/Users/karishmagajria/Documents/python program/Practice2.html",
+		"/Users/karishmagajria/Documents/Forloop.java",
+		"/Users/karishmagajria/Documents/star1.java",
+		"/Users/karishmagajria/Documents/Star2.java",
+		"/Users/karishmagajria/Documents/StarMatrix.java",
+		"/Users/karishmagajria/Documents/Array.java",
+		"/Users/karishmagajria/Documents/WhileLoop.java",
+		"/Users/karishmagajria/Documents/ClassStudent.java",
+		"/Users/karishmagajria/Documents/TestStudent.java",
+		"/Users/karishmagajria/Documents/TestStu.java",
+		"/Users/karishmagajria/Documents/Student1.java",
+		"/Users/karishmagajria/Documents/Student2.java",
+		"/Users/karishmagajria/Documents/TestEmployee.java",
+		"/Users/karishmagajria/Documents/Factorial.java",
+		"/Users/karishmagajria/Documents/TesttRectangle.java",
+		"/Users/karishmagajria/Documents/StudentT.java",
+		"/Users/karishmagajria/Documents/stu.java",
+		"/Users/karishmagajria/Documents/Stud.java",
+		"/Users/karishmagajria/Documents/class Chotu{",
+		"/Users/karishmagajria/Documents/Chotu.java",
+		"/Users/karishmagajria/Documents/StundentInfo.java",
+		"/Users/karishmagajria/Documents/Car.py",
+		"/Users/karishmagajria/Documents/StudentFile.java",
+		"/Users/karishmagajria/Documents/Employee.java",
+		"/Users/karishmagajria/Documents/Programmer.java",
+		"/Users/karishmagajria/Documents/Dog.java",
+		"/Users/karishmagajria/Documents/Inheritance.java",
+		"/Users/karishmagajria/Documents/Inheritance1.java",
+		"/Users/karishmagajria/Documents/HInheritance.java",
+		"/Users/karishmagajria/Documents/Cat.java",
+		"/Users/karishmagajria/Documents/TestOverloading.java",
+		"/Users/karishmagajria/Documents/MethodOverloading.java",
+		"/Users/karishmagajria/Documents/Bike.java",
+		"/Users/karishmagajria/Documents/TestBank.java",
+		"/Users/karishmagajria/Documents/TestSuper.java",
+		"/Users/karishmagajria/Documents/Super2.java",
+		"/Users/karishmagajria/Documents/Super3.java",
+		"/Users/karishmagajria/Documents/Super5.java",
+		"/Users/karishmagajria/Documents/Honda.java",
+		"/Users/karishmagajria/Documents/StarOne.java",
+		"/Users/karishmagajria/Documents/StarTwo.java",
+		"/Users/karishmagajria/Documents/StarThree.java",
+		"/Users/karishmagajria/Documents/Starfour.java",
+		"/Users/karishmagajria/Documents/InputClass.java",
+		"/Users/karishmagajria/Documents/One.java",
+		"/Users/karishmagajria/Documents/OneClass.java",
+		"/Users/karishmagajria/Documents/OneFor.java",
+		"/Users/karishmagajria/Documents/Even.java",
+		"/Users/karishmagajria/Documents/RevClass.java",
+		"/Users/karishmagajria/Documents/SumN.java",
+		"/Users/karishmagajria/Documents/::7. Write a C program to find sum of all even num",
+		"/Users/karishmagajria/Documents/SumEven.java",
+		"/Users/karishmagajria/Documents/Multi.java",
+		"/Users/karishmagajria/Documents/Count.java",
+		"/Users/karishmagajria/Documents/FirstLastDigit.java",
+		"/Users/karishmagajria/Documents/python program/test.py",
+		"/Users/karishmagajria/Documents/test.py",
+		"/Users/karishmagajria/Documents/Palindrome.java",
+		"/Users/karishmagajria/Documents/python program/responsive.html",
+		"/Users/karishmagajria/Documents/#PYTHON PROGRAM",
+		"/Users/karishmagajria/Documents/AnyonomousObject",
+		"/Users/karishmagajria/Documents/class Student{",
+		"/Users/karishmagajria/Documents/First.java",
+		"/Users/karishmagajria/Desktop/Karishma/billiongrocery/Podfile",
+		"/Users/karishmagajria/bokningoschema/app/models/ability.rb",
+		"/Users/karishmagajria/bokningoschema/app/assets/javascripts/controllers/employee/details.js",
+		"/Users/karishmagajria/bokningoschema/public/partials/booking/details.html",
+		"/Users/karishmagajria/bokningoschema/app/assets/javascripts/controllers/booking/details.js",
+		"/Users/karishmagajria/bokningoschema/public/partials/employee/details.html",
+		"/Users/karishmagajria/bokningoschema/app/views/bookings/get_bookings.html.erb",
+		"/Users/karishmagajria/bokningoschema/app/controllers/bookings_controller.rb",
+		"/Users/karishmagajria/bokningoschema/app/assets/javascripts/controllers/time-management/list.js",
+		"/Users/karishmagajria/bokningoschema/app/assets/javascripts/angular-app.js",
+		"/Users/karishmagajria/bokningoschema/app/assets/javascripts/controllers/booking/form.js",
+		"/Users/karishmagajria/bokningoschema/public/partials/time-management/list.html",
+		"/Users/karishmagajria/bokningoschema/config/secrets.yml",
+		"/Users/karishmagajria/bokningoschema/config/database.yml.example",
+		"/Users/karishmagajria/bokningoschema/config/database.yml",
+		"/Users/karishmagajria/bokningoschema/config/initializers/devise.rb"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "QuizApp.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

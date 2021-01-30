@@ -1,0 +1,70 @@
+<!---QUIZ app using html css and js-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>QUIZ APP</title>
+	<link rel="stylesheet" type="text/css" href="QuizAppCss.css">
+	<meta name="viewport" content="width=device-width ,initial-scale=1">
+</head>
+<body>
+
+	<div class="quiz-home-box custom-box show">
+		<h2>You will have 15 sec to ans each que</h2>
+		<!-- <button type="button" class="start-quiz-btn btn">Start the Quiz</button> -->
+		<h1><b>Select Category</b></h1>
+		<div class="category-box"></div> 
+	</div>
+
+	<div  id="quizBox" class="quiz-box custom-box">
+		<h1 class="category-text"></h1>
+		<div class="stats">
+			<div class="quiz-time">
+				<div class="remianing-time"></div>
+				<span class="time-up-text">Time's Up !!</span>
+			</div>
+			<div class="score-board">
+				<span class="score-text">Score:</span>
+				<span class="correct-answers"></span>
+			</div>
+		</div>
+
+		<div class="question-box">
+			<div class="current-que-num">
+			</div>
+			<div class="question-text">
+				Do ur fingernails and hairs grow after you die ?
+			</div>
+		</div>
+
+		<div class="option-box">
+			<!-- <div class="option">True</div>
+			<div class="option">False</div>
+			<div class="option">True</div>
+			<div class="option">False</div> -->
+		</div>
+
+		<div class="answer-description">
+			They really don't
+		</div>
+
+		<div class="next-question">
+			<button type="button" class="next-question-btn btn">Next Question</button>
+			<button type="button" class="see-result-btn btn">See Your Result !</button>
+		</div>
+	</div>
+
+	<div class="quiz-over-box custom-box">
+		<h1>Quiz Result</h1>
+		<h4>Total Que : <span class="total-questions"></span></h4>
+		<h4>Attempts : <span class="attempts"></span></h4>
+		<h4>Correct : <span id="correctQue" class="correct">21111111</span></h4>
+		<h4>Wrong : <span id="wrongQue" class="wrong">22222</span></h4>
+		<h4>Percentage : <span class="percentage"></span></h4>
+		<button type="button" class="start-again-quiz-btn btn">Start Quiz again !</button>
+		<button type="button" class="Go-to-Home-btn btn">Go to Home !</button>
+	</div>
+
+	<script type="text/javascript" src="QuizApp.js"></script>
+
+</body>
+</html>
